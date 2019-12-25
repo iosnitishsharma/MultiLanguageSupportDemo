@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiLanguageDemo</string>
+
+    <string name="hellostate">Welcome To Himachal</string>
+
+    <string name="title_activity_language_chooser_recycler">LanguageChooserRecycler</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
